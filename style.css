@@ -1,0 +1,58 @@
+div{
+    padding:5px;
+    margin:5px;
+}
+input{
+    margin:5px;
+    padding:10px;
+    font-size:larger;
+    font-weight: bold;
+}
+h2{
+    background-color: mediumspringgreen;
+    border:2px solid black;
+}
+h3{
+    background-color: paleturquoise;
+    border:2px solid black;
+}
+h4{
+    padding:10px;
+    background-color: navajowhite;
+    border:2px solid black;
+    font-size: larger;
+}
+.main{
+    border:2px solid black;
+    background-color: magenta;
+    text-align: center;
+    width:70%;
+    margin:0 auto;
+}
+.counter{
+    border:2px solid black;
+    background-color: lime;
+    width:50%;
+    margin:0 auto;
+}
+#box{
+    border:2px solid black;
+    background-color: lightpink;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#add{
+    background-color: bisque;
+}
+#minus{
+    background-color: khaki;
+}
+#reset{
+    background-color: lightcyan;
+}
+#error{
+    border:2px solid black;
+    background-color:powderblue;
+    font-size: larger;
+    font-weight: bold;
+}
