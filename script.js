@@ -10,14 +10,14 @@ add.addEventListener("click",
 function(){
     result=result+1
     box.innerHTML=result
-    error.innerHTML=""
+    error.innerHTML="😀"
 })
 minus.addEventListener("click",
 function(){
     if(result>0){
         result=result-1
         box.innerHTML=result
-        error.innerHTML=""
+        error.innerHTML="😀"
     }
     else{
         result=0
@@ -28,4 +28,5 @@ function(){
 reset.addEventListener("click",
 function(){
     box.innerHTML=0
+    error.innerHTML="😀"
 })
