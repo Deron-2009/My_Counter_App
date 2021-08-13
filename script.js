@@ -28,5 +28,6 @@ function(){
 reset.addEventListener("click",
 function(){
     box.innerHTML=0
+    result=0
     error.innerHTML="😀"
 })
